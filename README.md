@@ -6,6 +6,8 @@ A classic Snake game built with Java Swing featuring custom graphics, sound effe
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
+<img width="746" height="785" alt="image" src="https://github.com/user-attachments/assets/b21401c6-ad27-4cac-a774-d3607664104e" />
+
 ## 🎮 Features
 
 - **Custom Graphics** - Snake with animated head, eyes that follow movement direction, forked tongue, and scale patterns
